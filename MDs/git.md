@@ -14,4 +14,4 @@
     git remote add <ref name> <url of repo in github>
 
 #### Push using ref name
-    git push <ref name>
+    git push <ref name> (For first time push, create a new main branch by adding 'main' at the end of the command above, else no need)
